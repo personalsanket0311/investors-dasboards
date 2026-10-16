@@ -1,0 +1,658 @@
+[
+ {
+  "id": "inv-tx-1",
+  "investorId": "inv-001",
+  "dealId": "deal-023",
+  "amount": 420000,
+  "date": "2026-06-21",
+  "currentValue": 446196
+ },
+ {
+  "id": "inv-tx-2",
+  "investorId": "inv-001",
+  "dealId": "deal-001",
+  "amount": 1690000,
+  "date": "2026-04-16",
+  "currentValue": 1749757
+ },
+ {
+  "id": "inv-tx-3",
+  "investorId": "inv-001",
+  "dealId": "deal-008",
+  "amount": 4870000,
+  "date": "2026-06-08",
+  "currentValue": 5065946
+ },
+ {
+  "id": "inv-tx-4",
+  "investorId": "inv-001",
+  "dealId": "deal-015",
+  "amount": 2840000,
+  "date": "2026-07-30",
+  "currentValue": 2931885
+ },
+ {
+  "id": "inv-tx-5",
+  "investorId": "inv-001",
+  "dealId": "deal-019",
+  "amount": 480000,
+  "date": "2026-08-25",
+  "currentValue": 484634
+ },
+ {
+  "id": "inv-tx-6",
+  "investorId": "inv-001",
+  "dealId": "deal-002",
+  "amount": 5710000,
+  "date": "2026-07-30",
+  "currentValue": 5771155
+ },
+ {
+  "id": "inv-tx-7",
+  "investorId": "inv-001",
+  "dealId": "deal-031",
+  "amount": 2420000,
+  "date": "2026-09-08",
+  "currentValue": 2440339
+ },
+ {
+  "id": "inv-tx-8",
+  "investorId": "inv-001",
+  "dealId": "deal-055",
+  "amount": 1870000,
+  "date": "2026-07-13",
+  "currentValue": 1906891
+ },
+ {
+  "id": "inv-tx-9",
+  "investorId": "inv-001",
+  "dealId": "deal-063",
+  "amount": 430000,
+  "date": "2026-08-07",
+  "currentValue": 432919
+ },
+ {
+  "id": "inv-tx-10",
+  "investorId": "inv-001",
+  "dealId": "deal-003",
+  "amount": 1840000,
+  "date": "2026-09-07",
+  "currentValue": 1865936
+ },
+ {
+  "id": "inv-tx-11",
+  "investorId": "inv-002",
+  "dealId": "deal-061",
+  "amount": 620000,
+  "date": "2026-06-29",
+  "currentValue": 626678
+ },
+ {
+  "id": "inv-tx-12",
+  "investorId": "inv-002",
+  "dealId": "deal-011",
+  "amount": 4430000,
+  "date": "2026-01-11",
+  "currentValue": 4605154
+ },
+ {
+  "id": "inv-tx-13",
+  "investorId": "inv-002",
+  "dealId": "deal-054",
+  "amount": 130000,
+  "date": "2026-01-30",
+  "currentValue": 134957
+ },
+ {
+  "id": "inv-tx-14",
+  "investorId": "inv-002",
+  "dealId": "deal-036",
+  "amount": 1880000,
+  "date": "2026-08-27",
+  "currentValue": 1898045
+ },
+ {
+  "id": "inv-tx-15",
+  "investorId": "inv-002",
+  "dealId": "deal-004",
+  "amount": 4500000,
+  "date": "2026-04-22",
+  "currentValue": 4619204
+ },
+ {
+  "id": "inv-tx-16",
+  "investorId": "inv-002",
+  "dealId": "deal-071",
+  "amount": 1470000,
+  "date": "2026-06-05",
+  "currentValue": 1492423
+ },
+ {
+  "id": "inv-tx-17",
+  "investorId": "inv-003",
+  "dealId": "deal-048",
+  "amount": 230000,
+  "date": "2025-08-23",
+  "currentValue": 277881
+ },
+ {
+  "id": "inv-tx-18",
+  "investorId": "inv-003",
+  "dealId": "deal-034",
+  "amount": 2140000,
+  "date": "2026-03-30",
+  "currentValue": 2243174
+ },
+ {
+  "id": "inv-tx-19",
+  "investorId": "inv-003",
+  "dealId": "deal-042",
+  "amount": 1860000,
+  "date": "2026-07-24",
+  "currentValue": 1877611
+ },
+ {
+  "id": "inv-tx-20",
+  "investorId": "inv-003",
+  "dealId": "deal-021",
+  "amount": 4270000,
+  "date": "2026-02-14",
+  "currentValue": 4433806
+ },
+ {
+  "id": "inv-tx-21",
+  "investorId": "inv-003",
+  "dealId": "deal-009",
+  "amount": 1360000,
+  "date": "2026-09-26",
+  "currentValue": 1364032
+ },
+ {
+  "id": "inv-tx-22",
+  "investorId": "inv-004",
+  "dealId": "deal-061",
+  "amount": 1070000,
+  "date": "2026-06-23",
+  "currentValue": 1112174
+ },
+ {
+  "id": "inv-tx-23",
+  "investorId": "inv-004",
+  "dealId": "deal-063",
+  "amount": 400000,
+  "date": "2025-12-21",
+  "currentValue": 444820
+ },
+ {
+  "id": "inv-tx-24",
+  "investorId": "inv-004",
+  "dealId": "deal-005",
+  "amount": 2250000,
+  "date": "2026-07-07",
+  "currentValue": 2278735
+ },
+ {
+  "id": "inv-tx-25",
+  "investorId": "inv-004",
+  "dealId": "deal-065",
+  "amount": 2330000,
+  "date": "2026-07-12",
+  "currentValue": 2483866
+ },
+ {
+  "id": "inv-tx-26",
+  "investorId": "inv-004",
+  "dealId": "deal-025",
+  "amount": 1660000,
+  "date": "2025-10-29",
+  "currentValue": 1861982
+ },
+ {
+  "id": "inv-tx-27",
+  "investorId": "inv-004",
+  "dealId": "deal-013",
+  "amount": 220000,
+  "date": "2026-02-18",
+  "currentValue": 238094
+ },
+ {
+  "id": "inv-tx-28",
+  "investorId": "inv-004",
+  "dealId": "deal-008",
+  "amount": 1790000,
+  "date": "2026-06-18",
+  "currentValue": 1829569
+ },
+ {
+  "id": "inv-tx-29",
+  "investorId": "inv-005",
+  "dealId": "deal-008",
+  "amount": 5000000,
+  "date": "2026-06-18",
+  "currentValue": 5168030
+ },
+ {
+  "id": "inv-tx-30",
+  "investorId": "inv-005",
+  "dealId": "deal-015",
+  "amount": 5280000,
+  "date": "2026-04-10",
+  "currentValue": 5425065
+ },
+ {
+  "id": "inv-tx-31",
+  "investorId": "inv-005",
+  "dealId": "deal-062",
+  "amount": 3700000,
+  "date": "2026-07-05",
+  "currentValue": 3907356
+ },
+ {
+  "id": "inv-tx-32",
+  "investorId": "inv-005",
+  "dealId": "deal-050",
+  "amount": 250000,
+  "date": "2026-08-14",
+  "currentValue": 251233
+ },
+ {
+  "id": "inv-tx-33",
+  "investorId": "inv-005",
+  "dealId": "deal-009",
+  "amount": 640000,
+  "date": "2026-09-12",
+  "currentValue": 642426
+ },
+ {
+  "id": "inv-tx-34",
+  "investorId": "inv-005",
+  "dealId": "deal-055",
+  "amount": 2200000,
+  "date": "2026-07-15",
+  "currentValue": 2295957
+ },
+ {
+  "id": "inv-tx-35",
+  "investorId": "inv-005",
+  "dealId": "deal-049",
+  "amount": 4950000,
+  "date": "2026-08-28",
+  "currentValue": 4973344
+ },
+ {
+  "id": "inv-tx-36",
+  "investorId": "inv-006",
+  "dealId": "deal-059",
+  "amount": 150000,
+  "date": "2026-06-30",
+  "currentValue": 154414
+ },
+ {
+  "id": "inv-tx-37",
+  "investorId": "inv-006",
+  "dealId": "deal-032",
+  "amount": 1770000,
+  "date": "2026-04-07",
+  "currentValue": 1986545
+ },
+ {
+  "id": "inv-tx-38",
+  "investorId": "inv-006",
+  "dealId": "deal-014",
+  "amount": 360000,
+  "date": "2026-08-13",
+  "currentValue": 364891
+ },
+ {
+  "id": "inv-tx-39",
+  "investorId": "inv-006",
+  "dealId": "deal-026",
+  "amount": 2810000,
+  "date": "2026-09-11",
+  "currentValue": 2849179
+ },
+ {
+  "id": "inv-tx-40",
+  "investorId": "inv-006",
+  "dealId": "deal-004",
+  "amount": 3590000,
+  "date": "2025-11-22",
+  "currentValue": 4289201
+ },
+ {
+  "id": "inv-tx-41",
+  "investorId": "inv-006",
+  "dealId": "deal-017",
+  "amount": 120000,
+  "date": "2026-09-01",
+  "currentValue": 119769
+ },
+ {
+  "id": "inv-tx-42",
+  "investorId": "inv-006",
+  "dealId": "deal-027",
+  "amount": 850000,
+  "date": "2025-09-04",
+  "currentValue": 1073868
+ },
+ {
+  "id": "inv-tx-43",
+  "investorId": "inv-007",
+  "dealId": "deal-010",
+  "amount": 4260000,
+  "date": "2025-12-15",
+  "currentValue": 4666547
+ },
+ {
+  "id": "inv-tx-44",
+  "investorId": "inv-007",
+  "dealId": "deal-054",
+  "amount": 180000,
+  "date": "2026-01-31",
+  "currentValue": 187217
+ },
+ {
+  "id": "inv-tx-45",
+  "investorId": "inv-007",
+  "dealId": "deal-061",
+  "amount": 1270000,
+  "date": "2026-02-14",
+  "currentValue": 1398233
+ },
+ {
+  "id": "inv-tx-46",
+  "investorId": "inv-007",
+  "dealId": "deal-069",
+  "amount": 5820000,
+  "date": "2026-06-02",
+  "currentValue": 6082264
+ },
+ {
+  "id": "inv-tx-47",
+  "investorId": "inv-007",
+  "dealId": "deal-055",
+  "amount": 2780000,
+  "date": "2026-07-01",
+  "currentValue": 2988800
+ },
+ {
+  "id": "inv-tx-48",
+  "investorId": "inv-007",
+  "dealId": "deal-072",
+  "amount": 140000,
+  "date": "2026-09-15",
+  "currentValue": 140690
+ },
+ {
+  "id": "inv-tx-49",
+  "investorId": "inv-008",
+  "dealId": "deal-033",
+  "amount": 310000,
+  "date": "2026-09-10",
+  "currentValue": 308771
+ },
+ {
+  "id": "inv-tx-50",
+  "investorId": "inv-008",
+  "dealId": "deal-028",
+  "amount": 880000,
+  "date": "2026-07-24",
+  "currentValue": 911562
+ },
+ {
+  "id": "inv-tx-51",
+  "investorId": "inv-008",
+  "dealId": "deal-003",
+  "amount": 2650000,
+  "date": "2026-08-29",
+  "currentValue": 2701186
+ },
+ {
+  "id": "inv-tx-52",
+  "investorId": "inv-008",
+  "dealId": "deal-026",
+  "amount": 4600000,
+  "date": "2026-08-18",
+  "currentValue": 4675803
+ },
+ {
+  "id": "inv-tx-53",
+  "investorId": "inv-008",
+  "dealId": "deal-005",
+  "amount": 2390000,
+  "date": "2026-07-10",
+  "currentValue": 2502662
+ },
+ {
+  "id": "inv-tx-54",
+  "investorId": "inv-008",
+  "dealId": "deal-040",
+  "amount": 1470000,
+  "date": "2025-09-04",
+  "currentValue": 1668156
+ },
+ {
+  "id": "inv-tx-55",
+  "investorId": "inv-009",
+  "dealId": "deal-030",
+  "amount": 4100000,
+  "date": "2026-09-11",
+  "currentValue": 4141930
+ },
+ {
+  "id": "inv-tx-56",
+  "investorId": "inv-009",
+  "dealId": "deal-015",
+  "amount": 5220000,
+  "date": "2026-05-27",
+  "currentValue": 5516006
+ },
+ {
+  "id": "inv-tx-57",
+  "investorId": "inv-009",
+  "dealId": "deal-029",
+  "amount": 1120000,
+  "date": "2025-11-30",
+  "currentValue": 1289246
+ },
+ {
+  "id": "inv-tx-58",
+  "investorId": "inv-009",
+  "dealId": "deal-037",
+  "amount": 1080000,
+  "date": "2025-08-03",
+  "currentValue": 1430657
+ },
+ {
+  "id": "inv-tx-59",
+  "investorId": "inv-010",
+  "dealId": "deal-001",
+  "amount": 1390000,
+  "date": "2026-04-27",
+  "currentValue": 1359074
+ },
+ {
+  "id": "inv-tx-60",
+  "investorId": "inv-010",
+  "dealId": "deal-005",
+  "amount": 1390000,
+  "date": "2026-07-11",
+  "currentValue": 1440339
+ },
+ {
+  "id": "inv-tx-61",
+  "investorId": "inv-010",
+  "dealId": "deal-004",
+  "amount": 5120000,
+  "date": "2026-07-14",
+  "currentValue": 5195034
+ },
+ {
+  "id": "inv-tx-62",
+  "investorId": "inv-010",
+  "dealId": "deal-043",
+  "amount": 2270000,
+  "date": "2026-02-10",
+  "currentValue": 2530124
+ },
+ {
+  "id": "inv-tx-63",
+  "investorId": "inv-011",
+  "dealId": "deal-066",
+  "amount": 3610000,
+  "date": "2025-01-31",
+  "currentValue": 3982768
+ },
+ {
+  "id": "inv-tx-64",
+  "investorId": "inv-011",
+  "dealId": "deal-038",
+  "amount": 660000,
+  "date": "2026-05-20",
+  "currentValue": 722291
+ },
+ {
+  "id": "inv-tx-65",
+  "investorId": "inv-011",
+  "dealId": "deal-013",
+  "amount": 150000,
+  "date": "2025-08-15",
+  "currentValue": 159867
+ },
+ {
+  "id": "inv-tx-66",
+  "investorId": "inv-011",
+  "dealId": "deal-030",
+  "amount": 5570000,
+  "date": "2026-06-13",
+  "currentValue": 5946669
+ },
+ {
+  "id": "inv-tx-67",
+  "investorId": "inv-011",
+  "dealId": "deal-048",
+  "amount": 240000,
+  "date": "2026-03-22",
+  "currentValue": 239235
+ },
+ {
+  "id": "inv-tx-68",
+  "investorId": "inv-011",
+  "dealId": "deal-072",
+  "amount": 240000,
+  "date": "2026-07-03",
+  "currentValue": 250613
+ },
+ {
+  "id": "inv-tx-69",
+  "investorId": "inv-011",
+  "dealId": "deal-043",
+  "amount": 2020000,
+  "date": "2026-02-05",
+  "currentValue": 2139011
+ },
+ {
+  "id": "inv-tx-70",
+  "investorId": "inv-012",
+  "dealId": "deal-038",
+  "amount": 580000,
+  "date": "2026-06-18",
+  "currentValue": 624403
+ },
+ {
+  "id": "inv-tx-71",
+  "investorId": "inv-012",
+  "dealId": "deal-024",
+  "amount": 2310000,
+  "date": "2026-05-19",
+  "currentValue": 2230846
+ },
+ {
+  "id": "inv-tx-72",
+  "investorId": "inv-012",
+  "dealId": "deal-031",
+  "amount": 1870000,
+  "date": "2026-06-19",
+  "currentValue": 1896180
+ },
+ {
+  "id": "inv-tx-73",
+  "investorId": "inv-012",
+  "dealId": "deal-037",
+  "amount": 1500000,
+  "date": "2026-06-12",
+  "currentValue": 1551829
+ },
+ {
+  "id": "inv-tx-74",
+  "investorId": "inv-013",
+  "dealId": "deal-052",
+  "amount": 260000,
+  "date": "2026-09-20",
+  "currentValue": 260920
+ },
+ {
+  "id": "inv-tx-75",
+  "investorId": "inv-013",
+  "dealId": "deal-035",
+  "amount": 1810000,
+  "date": "2026-08-19",
+  "currentValue": 1837402
+ },
+ {
+  "id": "inv-tx-76",
+  "investorId": "inv-013",
+  "dealId": "deal-009",
+  "amount": 1110000,
+  "date": "2026-09-12",
+  "currentValue": 1122207
+ },
+ {
+  "id": "inv-tx-77",
+  "investorId": "inv-013",
+  "dealId": "deal-014",
+  "amount": 430000,
+  "date": "2026-05-06",
+  "currentValue": 473560
+ },
+ {
+  "id": "inv-tx-78",
+  "investorId": "inv-013",
+  "dealId": "deal-008",
+  "amount": 4570000,
+  "date": "2026-08-12",
+  "currentValue": 4590525
+ },
+ {
+  "id": "inv-tx-79",
+  "investorId": "inv-013",
+  "dealId": "deal-032",
+  "amount": 2540000,
+  "date": "2025-03-13",
+  "currentValue": 2174516
+ },
+ {
+  "id": "inv-tx-80",
+  "investorId": "inv-014",
+  "dealId": "deal-041",
+  "amount": 3310000,
+  "date": "2026-07-13",
+  "currentValue": 3535122
+ },
+ {
+  "id": "inv-tx-81",
+  "investorId": "inv-014",
+  "dealId": "deal-071",
+  "amount": 1370000,
+  "date": "2026-06-17",
+  "currentValue": 1372626
+ },
+ {
+  "id": "inv-tx-82",
+  "investorId": "inv-014",
+  "dealId": "deal-057",
+  "amount": 1150000,
+  "date": "2025-09-19",
+  "currentValue": 1302937
+ }
+]

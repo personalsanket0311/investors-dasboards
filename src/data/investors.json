@@ -1,0 +1,184 @@
+[
+ {
+  "id": "inv-001",
+  "name": "sanket kanade",
+  "type": "Angel",
+  "riskAppetite": "Medium",
+  "preferredIndustries": [
+   "FinTech",
+   "SaaS",
+   "Semiconductors"
+  ],
+  "budget": 5000000,
+  "joinedAt": "2024-07-10"
+ },
+ {
+  "id": "inv-002",
+  "name": "Diya Kulkarni",
+  "type": "Family Office",
+  "riskAppetite": "Low",
+  "preferredIndustries": [
+   "HealthTech",
+   "SaaS",
+   "FinTech"
+  ],
+  "budget": 25400000,
+  "joinedAt": "2024-11-26"
+ },
+ {
+  "id": "inv-003",
+  "name": "Rohan Iyer",
+  "type": "Venture Fund",
+  "riskAppetite": "High",
+  "preferredIndustries": [
+   "AgriTech",
+   "E-commerce",
+   "Logistics"
+  ],
+  "budget": 19700000,
+  "joinedAt": "2025-02-25"
+ },
+ {
+  "id": "inv-004",
+  "name": "Meera Nair",
+  "type": "Corporate",
+  "riskAppetite": "High",
+  "preferredIndustries": [
+   "Logistics",
+   "Clean Energy",
+   "SaaS"
+  ],
+  "budget": 36600000,
+  "joinedAt": "2025-06-12"
+ },
+ {
+  "id": "inv-005",
+  "name": "Kabir Singh",
+  "type": "Corporate",
+  "riskAppetite": "High",
+  "preferredIndustries": [
+   "Manufacturing",
+   "FinTech",
+   "HealthTech"
+  ],
+  "budget": 45500000,
+  "joinedAt": "2024-06-24"
+ },
+ {
+  "id": "inv-006",
+  "name": "Ananya Desai",
+  "type": "Corporate",
+  "riskAppetite": "Medium",
+  "preferredIndustries": [
+   "SaaS",
+   "AgriTech",
+   "Logistics"
+  ],
+  "budget": 4000000,
+  "joinedAt": "2024-04-14"
+ },
+ {
+  "id": "inv-007",
+  "name": "Vikram Rao",
+  "type": "Family Office",
+  "riskAppetite": "High",
+  "preferredIndustries": [
+   "EdTech",
+   "HealthTech",
+   "SaaS"
+  ],
+  "budget": 12800000,
+  "joinedAt": "2024-07-27"
+ },
+ {
+  "id": "inv-008",
+  "name": "Ishita Shah",
+  "type": "Corporate",
+  "riskAppetite": "Low",
+  "preferredIndustries": [
+   "Clean Energy",
+   "HealthTech",
+   "E-commerce"
+  ],
+  "budget": 3100000,
+  "joinedAt": "2025-09-24"
+ },
+ {
+  "id": "inv-009",
+  "name": "Arjun Patil",
+  "type": "Angel",
+  "riskAppetite": "Medium",
+  "preferredIndustries": [
+   "FinTech",
+   "EdTech",
+   "HealthTech"
+  ],
+  "budget": 44400000,
+  "joinedAt": "2026-05-14"
+ },
+ {
+  "id": "inv-010",
+  "name": "Sneha Joshi",
+  "type": "Venture Fund",
+  "riskAppetite": "Low",
+  "preferredIndustries": [
+   "EdTech",
+   "Logistics",
+   "AgriTech"
+  ],
+  "budget": 35200000,
+  "joinedAt": "2024-09-13"
+ },
+ {
+  "id": "inv-011",
+  "name": "Nikhil Verma",
+  "type": "Angel",
+  "riskAppetite": "Medium",
+  "preferredIndustries": [
+   "EdTech",
+   "AgriTech",
+   "Semiconductors"
+  ],
+  "budget": 29200000,
+  "joinedAt": "2024-12-10"
+ },
+ {
+  "id": "inv-012",
+  "name": "Pooja Reddy",
+  "type": "Corporate",
+  "riskAppetite": "Medium",
+  "preferredIndustries": [
+   "FinTech",
+   "E-commerce",
+   "Semiconductors"
+  ],
+  "budget": 33400000,
+  "joinedAt": "2025-05-30"
+ },
+ {
+  "id": "inv-013",
+  "name": "Siddharth Jain",
+  "type": "Family Office",
+  "riskAppetite": "High",
+  "preferredIndustries": [
+   "AgriTech",
+   "E-commerce",
+   "HealthTech"
+  ],
+  "budget": 29500000,
+  "joinedAt": "2025-09-07"
+ },
+ {
+  "id": "inv-014",
+  "name": "Tanvi Bhatt",
+  "type": "Corporate",
+  "riskAppetite": "Low",
+  "preferredIndustries": [
+   "Logistics",
+   "Manufacturing",
+   "HealthTech"
+  ],
+  "budget": 31800000,
+  "joinedAt": "2026-01-26"
+ }
+]
